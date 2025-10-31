@@ -8,8 +8,52 @@
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Build APK](https://github.com/Kiryushaboy/wms_testing/actions/workflows/build-apk.yml/badge.svg)](https://github.com/Kiryushaboy/wms_testing/actions/workflows/build-apk.yml)
 
-[Особенности](#-особенности) • [Установка](#-установка) • [Архитектура](#-архитектура) • [Скриншоты](#-скриншоты) • [Документация](#-документация)
+[📱 Скачать APK](#-скачать-apk) • [Особенности](#-особенности) • [Установка](#-установка) • [Архитектура](#-архитектура) • [Документация](#-документация)
+
+</div>
+
+---
+
+## 📱 Скачать APK
+
+<div align="center">
+
+### 🚀 Готовые сборки для Android
+
+<table>
+<tr>
+<th>Версия</th>
+<th>Описание</th>
+<th>Скачать</th>
+</tr>
+<tr>
+<td><b>Development</b></td>
+<td>Последняя автоматическая сборка из main<br><i>⚠️ Может содержать баги</i></td>
+<td><a href="https://github.com/Kiryushaboy/wms_testing/releases"><img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK"/></a></td>
+</tr>
+<tr>
+<td><b>Stable</b></td>
+<td>Стабильный релиз (когда будет доступен)<br><i>✅ Протестировано</i></td>
+<td><a href="https://github.com/Kiryushaboy/wms_testing/releases/latest"><img src="https://img.shields.io/badge/Download-Stable-blue?style=for-the-badge&logo=android" alt="Download Stable"/></a></td>
+</tr>
+</table>
+
+### 📋 Как установить
+
+1. **Скачайте** APK файл по ссылке выше
+2. **Разрешите** установку из неизвестных источников:
+   - Настройки → Безопасность → Неизвестные источники ✅
+3. **Откройте** скачанный APK файл
+4. **Нажмите** "Установить"
+5. **Готово!** 🎉
+
+> 💡 **Примечание**: Автоматическая сборка APK происходит при каждом push в main ветку
+
+</div>
+
+[Особенности](#-особенности)
 
 </div>
 
