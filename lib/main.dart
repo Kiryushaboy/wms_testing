@@ -14,9 +14,9 @@ void main() async {
   // Initialize Hive
   await Hive.initFlutter();
 
-  // Register Hive Adapters (будет сгенерировано после build_runner)
-  // Hive.registerAdapter(QuestionModelAdapter());
-  // Hive.registerAdapter(TestResultModelAdapter());
+  // Register Hive Adapters
+  Hive.registerAdapter(QuestionModelAdapter());
+  Hive.registerAdapter(TestResultModelAdapter());
 
   // Open Hive Boxes
   await Hive.openBox<QuestionModel>(AppConstants.questionsBox);
